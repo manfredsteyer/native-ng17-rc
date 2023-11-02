@@ -10,5 +10,6 @@ import { RouterOutlet } from '@angular/router';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'ng17demo';
+  title = 'Hallo Welt??!!!!!üüü!';
+  test=222;
 }
